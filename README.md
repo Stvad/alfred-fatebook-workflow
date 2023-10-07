@@ -1,5 +1,5 @@
 # alfred-fatebook-workflow
-[Fatebook.io](https://fatebook.io/) workflow for Alfred
+[Fatebook.io](https://fatebook.io/) workflow for [Alfred](https://www.alfredapp.com/)
 
 Type forecast to register a new Fatebook prediction.
 
